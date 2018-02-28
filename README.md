@@ -4,17 +4,16 @@ Very light version of [Feedly](https://feedly.com) build by ReactJS(client-side)
 
 ## Features
 
-- [*] Latest news feeds about tech, products & marketing
-- [*] Localization in react using [localizify](https://github.com/noveogroup-amorgunov/localizify)
-- [*] Authorization system (by [json web token](https://jwt.io))
+- [x] Latest news feeds about tech, products & marketing
+- [x] Localization in react using [localizify](https://github.com/noveogroup-amorgunov/localizify)
+- [x] Authorization system using [json web token](https://jwt.io)
+
 - [ ] news star
 - [ ] add tags
 - [ ] left side drag & drop
 - [ ] left side simple filter
 - [ ] right side tag billboard
 
-- [ ] todo1   
-- [ ] todo2 
 
 ## Intallation
 
