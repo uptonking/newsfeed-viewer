@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg-editor-canvas" class="canvas" width="100%" height="100%">
+    <g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
+                <g class="logo__item__inner" transform="translate(100 100) scale(1.6653959452434586 1.6653959452434586) rotate(0 0 0)">
+                    <text data-part-id="logo__item--business" dy="0" dominant-baseline="auto"
+                        alignment-baseline="auto"
+                        font-family="Montserrat"
+                        font-size="48px"
+                        fill="#98C24D"
+                        letter-spacing="0"
+                        font-weight="bold"
+                        font-style="normal"
+                        data-font-family="Montserrat" data-font-weight="bold" data-font-style="normal" data-ttf-url="/usr/share/fonts/chinese/Roboto-Italic.ttf" data-font-filename="montserrat-bold-normal">InfoQ</text>
+                </g>
+            </g>
+</svg>

@@ -1,0 +1,64 @@
+
+
+
+/*.content p:not(:last-child), .content dl:not(:last-child), .content ol:not(:last-child), .content ul:not(:last-child), .content blockquote:not(:last-child), .content pre:not(:last-child), .content table:not(:last-child){
+    margin-bottom: 0;
+}*/
+
+
+.nav {
+    font-size: 13px;
+    padding: 0;
+    text-align: center;
+}
+
+
+
+.pad-left-8{
+    padding-left: 8px;
+}
+
+.pad-left-16{
+    padding-left: 16px;
+}
+
+.margin-bottom-0{
+    margin-bottom: 0;
+}
+
+.margin-0{
+    margin: 0;
+}
+
+.height4{
+    height: 4%;
+}
+
+.height-24{
+    height: 44px;
+}
+
+.font-size-1{
+    font-size: 1rem;
+}
+
+.font-size50{
+    font-size: 75%;
+}
+
+.footer-body{
+    padding: 1rem;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.text-align-right{
+    text-align: right;
+}
+
+
+.text-align-left{
+    text-align: left;
+}
